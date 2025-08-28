@@ -29,11 +29,11 @@
 
 ### 📦 Featured Projects  
 <p align="center">
-  <a href="https://github.com/Prabhakarrayal/medicine-recommendation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medicine-recommendation&theme=radical" />
+  <a href="https://github.com/Prabhakarrayal/medical-image-denoising-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medical-image-denoising-ml&theme=radical" />
   </a>
-  <a href="https://github.com/Prabhakarrayal/medical-image-denoising">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medical-image-denoising&theme=radical" />
+  <a href="https://github.com/Prabhakarrayal/ats-resume-optimizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=ats-resume-optimizer&theme=radical" />
   </a>
 </p>
 

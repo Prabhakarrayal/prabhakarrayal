@@ -2,12 +2,12 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hi%20I'm%20Prabhakar%20Rayal%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:ff6a00&height=200&section=header&text=Hi%20I'm%20Prabhakar%20Rayal%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI-ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff0080&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI-ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,16 +41,16 @@
 
 ### 📊 GitHub Stats & Streaks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakarrayal&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakarrayal&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -80,5 +80,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:8e2de2&height=120&section=footer"/>
 </p>

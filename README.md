@@ -59,8 +59,9 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Prabhakarrayal/Prabhakarrayal/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Prabhakarrayal/Prabhakarrayal/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 

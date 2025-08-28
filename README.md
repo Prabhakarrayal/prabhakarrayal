@@ -42,8 +42,13 @@
 ### 📊 GitHub Stats & Streaks  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=radical&langs_count=8&hide=C,C%2B%2B" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>

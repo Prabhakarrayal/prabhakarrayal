@@ -77,8 +77,9 @@
 <p align="center">
   <a href="mailto:prabhakarrayalarcy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/prabhakar-rayal-663968259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Prabhakarrayal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://prabhakar-rayal-gtz3vl4.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=firefox&logoColor=white"></a>
 </p>
+
 
 ---
 

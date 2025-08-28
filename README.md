@@ -49,9 +49,7 @@
 </p>
 
 <p align="center">
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
-</p>
 
 
 ---

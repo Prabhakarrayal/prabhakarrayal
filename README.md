@@ -41,27 +41,18 @@
 
 ### 📊 GitHub Stats & Streaks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=radical" height="160"/>
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=radical&langs_count=8&hide=C,C%2B%2B,CMake,Makefile&cache_seconds=1800" height="160"/>
 </p>
 
 <p align="center">
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
 </p>
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
-</p>
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prabhakarrayal&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
 
 ---
 

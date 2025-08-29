@@ -12,79 +12,74 @@
 
 ---
 
-### 🚀 About Me   
-- 🎓 B.Tech CSE Graduate (2025) from Graphic Era Hill University  
-- 💡 Passionate about **AI/ML, Web Development, and Cloud Computing**  
+### 🚀 About Me
+- 🎓 **B.Tech CSE Graduate (2025)** – Graphic Era Hill University  
+- 💡 Passionate about **AI/ML, Web Development & Cloud Computing**  
 - 🌱 Currently learning **Japanese & Advanced ML**  
-- ⚡ Fun fact: I love building **chatbots and intelligent tools**  
+- ⚡ Fun fact: I love building **chatbots & intelligent tools**
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php,html,css,mysql,flask,react,aws,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📦 Featured Projects  
+### 📦 Featured Projects
 <p align="center">
   <a href="https://github.com/Prabhakarrayal/medical-image-denoising-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medical-image-denoising-ml&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medical-image-denoising-ml&theme=nightowl" />
   </a>
   <a href="https://github.com/Prabhakarrayal/ats-resume-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=ats-resume-optimizer&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=ats-resume-optimizer&theme=nightowl" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Streaks  
+### 📊 GitHub Stats & Streaks
 <p align="center">
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=nightowl&hide_border=true" height="160"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=radical&langs_count=8&hide=C,C%2B%2B,CMake,Makefile&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=nightowl&langs_count=8&hide=C,C%2B%2B,CMake,Makefile" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=Prabhakarrayal&theme=radical&hide_border=true&short_numbers=true" height="160"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.vercel.app/?user=Prabhakarrayal&theme=nightowl&hide_border=true&short_numbers=true" height="160"/>
 </p>
-
-
-
-
-
-
-
-
 
 ---
 
-### 🐍 Contribution Snake  
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prabhakarrayal/Prabhakarrayal/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-
-
 ---
 
-### 🏅 Certifications  
+### 🏅 Certifications
 - ☁️ **AWS Cloud Computing Basics — Infosys (2025)**  
 - 🔐 **Cybersecurity Awareness — Infotech (2023)**  
- 
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:prabhakarrayalarcy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/prabhakar-rayal-663968259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://prabhakar-rayal-gtz3vl4.gamma.site/"><img src="https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="mailto:prabhakarrayalarcy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prabhakar-rayal-663968259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://prabhakar-rayal-gtz3vl4.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 

@@ -49,10 +49,9 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats-80kx07s76-prabhakarrayals-projects.vercel.app?user=Prabhakarrayal&theme=python-dark&hide_border=true&short_numbers=true" height="160"/>
-  </a>
+  <img src="https://streak-stats-80kx07s76-prabhakarrayals-projects.vercel.app?user=Prabhakarrayal&theme=python-dark&hide_border=true&short_numbers=true" height="160"/>
 </p>
+
 
 
 

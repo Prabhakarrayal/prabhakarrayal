@@ -71,7 +71,7 @@
 ### 🏅 Certifications  
 - ☁️ **AWS Cloud Computing Basics — Infosys (2025)**  
 - 🔐 **Cybersecurity Awareness — Infotech (2023)**  
-- 🏆 Hackathon Finalist (Web Dev)  
+ 
 
 ---
 

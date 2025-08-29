@@ -49,9 +49,9 @@
 </p>
 
 <p align="center">
-  <!-- Streak (vercel mirror) -->
-  <img src="https://github-readme-streak-stats.vercel.app?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
+  <img src="https://prabhakar-streak.vercel.app?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
 </p>
+
 
 
 

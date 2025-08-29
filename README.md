@@ -49,10 +49,9 @@
 </p>
 
 <p align="center">
-  <!-- Streak (Heroku mirror) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabhakarrayal&theme=radical&hide_border=true&cache_seconds=1800" height="160"/>
+  <!-- Streak (official mirror) -->
+  <img src="https://streak-stats.demolab.com?user=Prabhakarrayal&theme=radical&hide_border=true" height="160"/>
 </p>
-
 
 
 ---

@@ -40,18 +40,18 @@
 ---
 
 ### 📊 GitHub Stats & Streaks
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Prabhakarrayal&show_icons=true&theme=nightowl&hide_border=true" height="160"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=nightowl&langs_count=8&hide=C,C%2B%2B,CMake,Makefile" height="160"/>
-</p>
 
-<p align="center">
   <!-- Streak Stats -->
   <img src="https://streak-stats.vercel.app/?user=Prabhakarrayal&theme=nightowl&hide_border=true&short_numbers=true" height="160"/>
 </p>
+
+  <!-- Top Languages (with border to match height visually) -->
+ <p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhakarrayal&layout=compact&theme=nightowl&langs_count=8&hide=C,C%2B%2B,CMake,Makefile" height="160"/>
+  </span>
 
 ---
 

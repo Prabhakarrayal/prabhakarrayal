@@ -49,8 +49,11 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats-80kx07s76-prabhakarrayals-projects.vercel.app?user=Prabhakarrayal&theme=python-dark&hide_border=true&short_numbers=true" height="160"/>
+  <img src="https://streak-stats.vercel.app/?user=Prabhakarrayal&theme=radical&hide_border=true&short_numbers=true" height="160"/>
 </p>
+
+
+
 
 
 

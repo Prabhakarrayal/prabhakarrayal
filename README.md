@@ -7,14 +7,14 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff0080&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI-ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f2c35c&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI-ML+Enthusiast;Web+Developer+%7C+Problem+Solver;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Prabhakarrayal22&style=for-the-badge&color=green" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prabhakarrayal22&style=for-the-badge&color=f2c35c" alt="Profile Views" />
 
 </div>
 

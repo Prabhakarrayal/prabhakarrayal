@@ -12,6 +12,15 @@
 
 ---
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Prabhakarrayal22&style=for-the-badge&color=green" alt="Profile Views" />
+
+</div>
+
+
+---
+
 ### 🚀 About Me
 - 🎓 **B.Tech CSE Graduate (2025)** – Graphic Era Hill University  
 - 💡 Passionate about **AI/ML, Web Development & Cloud Computing**  

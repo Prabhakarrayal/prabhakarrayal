@@ -94,5 +94,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:8e2de2&height=200&section=footer&text=Thank+You+For+Visiting&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:ff6a00&height=200&section=footer&text=Thank+You+For+Visiting&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>

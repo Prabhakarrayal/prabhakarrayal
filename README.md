@@ -74,7 +74,7 @@
 ### 🏅 Certifications
 - ☁️ **AWS Cloud Computing Basics — Infosys (2025)**  
 - 🔐 **Cybersecurity Awareness — Infotech (2023)**
--    **Certified AI Foundation Associate — Oracle (2025)** 
+- 🤖 **Certified AI Foundation Associate — Oracle (2025)** 
 
 ---
 

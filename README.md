@@ -23,7 +23,7 @@
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE Graduate (2025)** – Graphic Era Hill University  
-- 💡 Passionate about **AI/ML, Web Development & Cloud Computing**  
+- 💡 Passionate about **AI/ML, Development(frontend/backend) & Cloud Computing**  
 - 🌱 Currently learning **Japanese & Advanced ML**  
 - ⚡ Fun fact: I love building **chatbots & intelligent tools**
 

@@ -75,7 +75,7 @@
 - ☁️ **AWS Cloud Computing Basics — Infosys (2025)**  
 - 🤖 **Certified AI Foundation Associate — Oracle (2025)**
 - 👔 **Career Edge - Young Professional – TCS iON (2025)** 
-
+- 💻 **AIR - 68 - Naukri Campus Young Turks (2025)** 
 ---
 
 ### 🌐 Connect With Me

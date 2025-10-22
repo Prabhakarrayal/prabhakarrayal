@@ -44,6 +44,10 @@
   <a href="https://github.com/Prabhakarrayal/ats-resume-optimizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=ats-resume-optimizer&theme=nightowl" />
   </a>
+  <a href="https://github.com/Prabhakarrayal/2-Professional-Python-Projects-Level-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=2-Professional-Python-Projects-Level-4
+&theme=nightowl" />
+  </a>
 </p>
 
 ---

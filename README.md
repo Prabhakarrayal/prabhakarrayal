@@ -40,6 +40,7 @@
 <p align="center">
   <a href="https://github.com/Prabhakarrayal/medical-image-denoising-ml">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=medical-image-denoising-ml&theme=nightowl" />
+    
   </a>
   <a href="https://github.com/Prabhakarrayal/ats-resume-optimizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prabhakarrayal&repo=ats-resume-optimizer&theme=nightowl" />

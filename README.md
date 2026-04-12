@@ -36,6 +36,7 @@
 
 ---
 
+<!----
 ### 📦 Featured Projects
 <p align="center">
   <a href="https://github.com/Prabhakarrayal/medical-image-denoising-ml">
@@ -50,7 +51,7 @@
 &theme=nightowl" />
   </a>
 </p>
-
+---->
 ---
 
 ### 📊 GitHub Stats & Streaks

@@ -22,6 +22,7 @@
 ---
 
 ### 🚀 About Me
+- 👔 **Customer Engineer(Openstack & Devops) @ Vincentio Tech Solutions**
 - 🎓 **B.Tech CSE Graduate (2025)** – Graphic Era Hill University  
 - 💡 Passionate about **Cloud Computing & AI/ML, Development(frontend/backend)**  
 - 🌱 Currently learning **Japanese, OpenStack/DevOps & AI**  

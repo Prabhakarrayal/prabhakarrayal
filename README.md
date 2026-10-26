@@ -98,8 +98,13 @@
   <a href="https://prabhakar-rayal-gtz3vl4.gamma.site/">
     <img src="https://img.shields.io/badge/Portfolio-ff6a00?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/prabhakarrayal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/goluray9msa">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 <!-- Footer Banner -->

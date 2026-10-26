@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f2c35c&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+AI+Enthusiast;Web+Developer+%7C+Cloud;Getting+0.1%+Better+EveryDay;Always+Learning+New+Techs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f2c35c&center=true&vCenter=true&width=500&lines=Cloud+Computing;Software+Development+%7C+AI+Enthusiast;Web+Development;Getting+0.1%+Better+EveryDay;Always+Learning+New+Techs" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,15 +23,15 @@
 
 ### 🚀 About Me
 - 🎓 **B.Tech CSE Graduate (2025)** – Graphic Era Hill University  
-- 💡 Passionate about **AI/ML, Development(frontend/backend) & Cloud Computing**  
-- 🌱 Currently learning **Japanese AI & OpenStack/DevOps**  
-- ⚡ Fun fact: I love building **relaitable projects & intelligent tools**
+- 💡 Passionate about **Cloud Computing & AI/ML, Development(frontend/backend)**  
+- 🌱 Currently learning **Japanese, OpenStack/DevOps & AI**  
+- ⚡ A Fact Of Mine: I love building **relaitable projects & intelligent tools**
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,php,html,css,mysql,flask,react,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,openstack,docker,kubernetes,aws,git,github,python,java,js,html,css,mysql,postgres,flask,vscode" />
 </p>
 
 ---
@@ -81,8 +81,8 @@
 ---
 
 ### 🏅 Certifications
-- ☁️ **AWS Cloud Computing Basics — Infosys**  
-- 🤖 **Certified AI Foundation Associate — Oracle**
+- ☁️ **Course on Cloud (AWS Fundmentals)— Infosys**  
+- 🤖 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle**
 - 👔 **Career Edge - Young Professional – TCS iON** 
 - 💻 **AIR - 68 - Naukri Campus Young Turks (2025)** 
 ---
